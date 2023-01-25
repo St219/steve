@@ -1,0 +1,5 @@
+                                   !!!Bienvenidos a Nuestro Sistema de Consultas!!!
+ 
+Desarrollado por: Mauricio Varela, Steve Cherres, Edwin Velasco.
+
+Escriba "1" para continuar:
